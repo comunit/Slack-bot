@@ -2,7 +2,7 @@ const SlackBot = require('slackbots');
 const axios = require('axios');
 
 const bot = new SlackBot({
-  token: 'xoxb-375608689809-375458852848-Y1hVqf03ch4tkLrigIJkwxdR',
+  token: '<Place your token here>',
   name: 'jokebot'
 });
 
