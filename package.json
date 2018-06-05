@@ -1,0 +1,19 @@
+{
+  "name": "slack-jokebot",
+  "version": "1.0.0",
+  "description": "slackbot thats tells random jokes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Imran",
+    "rafique"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
